@@ -1,4 +1,4 @@
-from bun import Bun
+from praktikum.bun import Bun
 from data import Data
 
 
